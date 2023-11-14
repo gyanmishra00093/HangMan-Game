@@ -4,6 +4,11 @@ import Word from './word';
 import Letters from './letters';
 import Start from './start';
 
+
+// jhsagdjadjbdabdjbajbdajb
+
+
+
 const MAX_LIVES=6;
 export default function Game() {
     const [actualWord,setActualWord]=useState("");
