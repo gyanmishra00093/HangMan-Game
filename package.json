@@ -1,0 +1,24 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "An awesome game developed by awesome developers",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "17": "^0.0.0",
+    "@babel/preset-react": "^7.22.5",
+    "babel": "^6.23.0",
+    "babel-loader": "^9.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fireworks": "^1.0.4",
+    "version": "^0.1.2",
+    "webpack": "^5.86.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}

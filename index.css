@@ -1,0 +1,47 @@
+body{  
+    background-color: aqua;
+    color:darkblue;
+}
+#id2{
+    display:flex; 
+    justify-content: center;
+    border: 2px solid black;
+    align-items: center;
+    height:20vh;
+}
+#start{
+    display:flex;
+    justify-content: center;
+}
+#Result{
+    display:flex;
+    justify-content: center;
+}
+#live{
+    display: flex;
+    justify-content: center;
+}
+#word{
+    display: flex;
+    justify-content: center;
+}
+#letter{
+    display: flex;
+    justify-content: center;
+}
+#alpha{
+    margin:25px;
+}
+.key2{
+    margin-left:32px;
+}
+.key3{
+    margin-left:59px;
+}
+#lettersbutton{
+    margin:5px;
+}
+#won{
+    display: flex;
+    justify-content: center;
+}
